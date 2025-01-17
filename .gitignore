@@ -12,11 +12,6 @@
 *.blend
 *.fbx
 
-# Fichiers spécifiques à la construction (textures)
-*.jpg
-*.png
-*.tga
-
 # Cache de l'éditeur
 *.vscode
 *.idea
