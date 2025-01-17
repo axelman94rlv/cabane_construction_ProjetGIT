@@ -17,7 +17,7 @@ Le projet permet de suivre les différentes étapes de la construction d'une cab
 Clonez ce repository sur votre machine locale :
 
 ```bash
-git clone https://github.com/votre-utilisateur/projet-cabane.git
+git clone https://github.com/axelman94rlv/cabane_construction_ProjetGIT.git
 cd projet-cabane
 ```
 
