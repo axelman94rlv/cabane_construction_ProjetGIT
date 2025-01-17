@@ -1,0 +1,30 @@
+#fichiers générés et temporaires
+*.log
+*.bak
+*.swp
+*.tmp
+
+# Fichiers spécifiques à la construction (modélisation)
+*.dwg
+*.skp
+*.3ds
+*.obj
+*.blend
+*.fbx
+
+# Fichiers spécifiques à la construction (textures)
+*.jpg
+*.png
+*.tga
+
+# Cache de l'éditeur
+*.vscode
+*.idea
+
+#Cache et fichiers temporaires
+.DS_Store
+Thumbs.db
+.cache
+
+
+
